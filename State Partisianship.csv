@@ -1,0 +1,52 @@
+﻿State,Republican/lean Rep.,No lean,Democrat/lean Dem.,Highly Religious,Governor Political Affiliation,State Senate Majority Political Affiliation,State House Majority Political Affiliation,State Attorney General Political Affiliation,State Insurance Commissioner Political Affiliation
+Alabama,0.52,0.13,0.35,0.77,Republican,Republican,Republican,Republican,Appointed
+Alaska,0.39,0.29,0.32,0.77,Republican,Republican,Republican,Appointed,Appointed
+Arizona,0.4,0.21,0.39,0.73,Republican,Republican,Republican,Republican,Appointed
+Arkansas,0.46,0.16,0.38,0.71,Republican,Republican,Republican,Republican,Appointed
+California,0.3,0.21,0.49,0.7,Democrat,Democrat,Democrat,Appointed,Democrat
+Colorado,0.41,0.17,0.42,0.7,Democrat,Democrat,Democrat,Democrat,Appointed
+Connecticut,0.32,0.18,0.5,0.69,Democrat,Democrat,Democrat,Democrat,Appointed
+Delaware,0.29,0.17,0.55,0.66,Democrat,Democrat,Democrat,Democrat,Democrat
+District of Columbia,0.11,0.15,0.73,0.66,Democrat,Democrat,N/A,Democrat,Appointed
+Florida,0.37,0.19,0.44,0.65,Republican,Republican,Republican,Republican,Appointed
+Georgia,0.41,0.18,0.41,0.64,Republican,Republican,Republican,Republican,Republican
+Hawaii,0.28,0.2,0.51,0.64,Democrat,Democrat,Democrat,Appointed,Appointed
+Idaho,0.49,0.19,0.32,0.63,Republican,Republican,Republican,Republican,Appointed
+Illinois,0.33,0.19,0.48,0.61,Democrat,Democrat,Democrat,Democrat,Appointed
+Indiana,0.42,0.2,0.37,0.6,Republican,Republican,Republican,Republican,Appointed
+Iowa,0.41,0.19,0.4,0.59,Republican,Republican,Republican,Democrat,Appointed
+Kansas,0.46,0.23,0.31,0.58,Democrat,Republican,Republican,Republican,Republican
+Kentucky,0.44,0.13,0.43,0.57,Democrat,Republican,Republican,Republican,Appointed
+Louisiana,0.41,0.16,0.43,0.55,Democrat,Republican,Republican,Republican,Republican
+Maine,0.36,0.17,0.47,0.55,Democrat,Democrat,Democrat,Appointed,Appointed
+Maryland,0.31,0.14,0.55,0.55,Republican,Democrat,Democrat,Democrat,Appointed
+Massachusetts,0.27,0.17,0.56,0.54,Republican,Democrat,Democrat,Democrat,Appointed
+Michigan,0.34,0.19,0.47,0.54,Democrat,Republican,Republican,Democrat,Appointed
+Minnesota,0.39,0.15,0.46,0.54,Democrat,Republican,Democrat,Democrat,Appointed
+Mississippi,0.44,0.14,0.42,0.54,Republican,Republican,Republican,Republican,Republican
+Missouri,0.41,0.18,0.42,0.54,Republican,Republican,Republican,Republican,Appointed
+Montana,0.49,0.21,0.3,0.53,Republican,Republican,Republican,Republican,Republican
+Nebraska,0.47,0.17,0.36,0.53,Republican,N/A,N/A,Republican,Appointed
+Nevada,0.37,0.18,0.46,0.53,Democrat,Democrat,Democrat,Democrat,Appointed
+New Hampshire,0.35,0.2,0.44,0.53,Republican,Republican,Republican,Appointed,Appointed
+New Jersey,0.3,0.19,0.51,0.53,Democrat,Democrat,Democrat,Appointed,Appointed
+New Mexico,0.37,0.15,0.48,0.52,Democrat,Democrat,Democrat,Democrat,Appointed
+New York,0.28,0.19,0.53,0.51,Democrat,Democrat,Democrat,Democrat,Appointed
+North Carolina,0.41,0.17,0.43,0.51,Democrat,Republican,Republican,Democrat,Republican
+North Dakota,0.5,0.18,0.33,0.49,Republican,Republican,Republican,Appointed,Republican
+Ohio,0.42,0.18,0.4,0.49,Republican,Republican,Republican,Republican,Republican
+Oklahoma,0.45,0.15,0.4,0.49,Republican,Republican,Republican,Republican,Republican
+Oregon,0.32,0.21,0.47,0.49,Democrat,Democrat,Democrat,Democrat,Appointed
+Pennsylvania,0.39,0.15,0.46,0.48,Democrat,Republican,Republican,Democrat,Appointed
+Rhode Island,0.3,0.22,0.48,0.48,Democrat,Democrat,Democrat,Democrat,Appointed
+South Carolina,0.43,0.18,0.39,0.47,Republican,Republican,Republican,Republican,Appointed
+South Dakota,0.53,0.1,0.37,0.47,Republican,Republican,Republican,Republican,Appointed
+Tennessee,0.48,0.15,0.36,0.46,Republican,Republican,Republican,Appointed,Appointed
+Texas,0.39,0.21,0.4,0.45,Republican,Republican,Republican,Republican,Appointed
+Utah,0.54,0.16,0.3,0.45,Republican,Republican,Republican,Republican,Appointed
+Vermont,0.29,0.14,0.57,0.45,Republican,Democrat,Democrat,Democrat,Appointed
+Virginia,0.43,0.18,0.39,0.43,Republican,Democrat,Republican,Republican,Appointed
+Washington,0.33,0.23,0.44,0.34,Democrat,Democrat,Democrat,Democrat,Democrat
+West Virginia,0.43,0.16,0.41,0.34,Republican,Republican,Republican,Republican,Appointed
+Wisconsin,0.42,0.16,0.42,0.33,Democrat,Republican,Republican,Democrat,Appointed
+Wyoming,0.57,0.18,0.25,0.33,Republican,Republican,Republican,Appointed,Appointed
